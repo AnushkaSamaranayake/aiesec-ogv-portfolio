@@ -36,7 +36,7 @@ export default function Component() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
               <Image
-                src="/placeholder.svg?height=40&width=120"
+                src="/images/White-Blue-Logo.png"
                 alt="AIESEC Logo"
                 width={120}
                 height={40}
@@ -68,7 +68,7 @@ export default function Component() {
             {/* Hero Section */}
             <section className="relative h-[500px]">
               <Image
-                src="/placeholder.svg?height=720&width=1280"
+                src="/images/cover-home.jpg"
                 alt="Home Cover"
                 width={1280}
                 height={720}
@@ -77,7 +77,7 @@ export default function Component() {
               <div className="container mx-auto px-8 md:px-16 h-full flex items-center relative z-10">
                 <div className="max-w-2xl">
                   <Image
-                    src="/placeholder.svg?height=100&width=200"
+                    src="/images/GV-HORIZONTAL-WHITE.png"
                     alt="Global Volunteer Logo"
                     width={200}
                     height={100}
